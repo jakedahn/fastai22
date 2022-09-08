@@ -8,6 +8,7 @@ fastai = "*"
 duckduckgo-search = "*"
 ipdb = "*"
 ipython = "*"
+ipywidgets = "*"
 
 [dev-packages]
 ipykernel = "*"
